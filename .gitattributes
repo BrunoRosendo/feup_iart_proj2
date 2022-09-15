@@ -1,1 +1,2 @@
-notebooks/** linguist-vendored
+amazonNLP.ipynb linguist-vendored
+preprocessBagOfWords.ipynb linguist-vendored
